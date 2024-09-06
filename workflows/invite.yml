@@ -1,0 +1,34 @@
+name: Invite Users
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  invite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if the issue is from a valid user
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const user = issue.user.login;
+            
+            // Optional: Validate if the issue is from a user who should be invited
+            // e.g., check if user is not already a member
+            
+            const token = process.env.GITHUB_TOKEN;
+            const org = 'Open-Hub-Community';
+            const invitee = user;
+            
+            // Invite user to the organization
+            await github.orgs.createInvitation({
+              org,
+              invitee_id: invitee,
+              role: 'member' // or 'admin'
+            });
+
+            console.log(`Invited ${invitee} to the organization`);
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
