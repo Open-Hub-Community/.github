@@ -2,6 +2,8 @@
 
 Welcome to **Open Hub Community**!
 
+Follow on X for latest updates [Open Hub Twitter](https://x.com/open8hub)
+
 **Open Hub Community** is a thriving community dedicated to fostering open-source collaboration, enhancing coding skills, and bridging the gap between academic knowledge and real-world applications. We aim to create an inclusive environment where developers, learners, and tech enthusiasts can grow together through workshops, hackathons, and open-source projects.
 
 ## 🌟 What We’re All About
