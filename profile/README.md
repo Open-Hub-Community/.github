@@ -67,6 +67,10 @@ Violations of our code of conduct will not be tolerated. Consequences for code o
 > This code of conduct applies to all members of the community.
 </details>
 
+## 🤝 Sponsorship
+- We are excited to offer sponsorship opportunities for our upcoming events.
+- Visit [Sponsorship](https://github.com/Open-Hub-Community/Sponsorships) repo for more details.
+
 ## 📚 Useful Resources
 
 - **Email**: [hello@openhub.com](mailto:open8hub@gmail.com)
