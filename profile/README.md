@@ -5,6 +5,18 @@ Welcome to **Open Hub Community**!
 
 **Open Hub Community** is a thriving community dedicated to fostering open-source collaboration, enhancing coding skills, and bridging the gap between academic knowledge and real-world applications. We aim to create an inclusive environment where developers, learners, and tech enthusiasts can grow together through workshops, hackathons, and open-source projects.
 
+## 🚀 Join the OpenHub GitHub Organization
+
+Want to become a part of **OpenHub**? Simply join us by raising an issue to receive an invitation! 
+
+Click [here](https://github.com/Open-Hub-Community/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Open+Hub+Community+Organization) to raise an issue with the label **"invite me to the community"**. Once it's reviewed, you'll get an invitation to join our GitHub Organization.
+
+After accepting the invitation, make sure to make your membership public so it appears on your GitHub profile. You can do this by visiting the [OpenHub People page](https://github.com/orgs/Open-Hub-Community/people), finding your name, and selecting the **Public** option from the dropdown next to your name.
+
+We can’t wait to have you with us!
+
+
+
 ## 🌟 What We’re All About
 
 OpenHub focuses on:
@@ -18,17 +30,6 @@ OpenHub focuses on:
 - **Join Our Community**: Become a member to participate in events, contribute to projects, and connect with other tech enthusiasts.
 - **Contribute**: Dive into our open-source projects, share your skills, and make an impact.
 - **Attend Our Events**: Check our calendar for upcoming workshops, hackathons, and tech talks.
-
-## 🚀 Join the OpenHub GitHub Organization
-
-Want to become a part of **OpenHub**? Simply join us by raising an issue to receive an invitation! 
-
-Click [here](https://github.com/Open-Hub-Community/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Open+Hub+Community+Organization) to raise an issue with the label **"invite me to the community"**. Once it's reviewed, you'll get an invitation to join our GitHub Organization.
-
-After accepting the invitation, make sure to make your membership public so it appears on your GitHub profile. You can do this by visiting the [OpenHub People page](https://github.com/orgs/Open-Hub-Community/people), finding your name, and selecting the **Public** option from the dropdown next to your name.
-
-We can’t wait to have you with us!
-
 
 ## 📜 Code of Conduct
 
